@@ -1,0 +1,8 @@
+Doctor Strange;C:\Users\Benito\Downloads\Movies App Dev\doctor strange.jpg;07.00,10.00,13.00,16.00,19.00
+Jumanji;C:\Users\Benito\Downloads\Movies App Dev\jumanji.jpg;07.00,10.00,13.00,16.00,19.00
+Justice League;C:\Users\Benito\Downloads\Movies App Dev\justice league.jpg;07.00,10.00,13.00,16.00,19.00
+Mario;C:\Users\Benito\Downloads\Movies App Dev\mario.jpg;07.00,10.00,13.00,16.00,19.00
+Otto;C:\Users\Benito\Downloads\Movies App Dev\otto.jpg;07.00,10.00,13.00,16.00,19.00
+The Greatest Showman;C:\Users\Benito\Downloads\Movies App Dev\showman.jpg;07.00,10.00,13.00,16.00,19.00
+Spiderman;C:\Users\Benito\Downloads\Movies App Dev\spiderman.jpg;07.00,10.00,13.00,16.00,19.00
+Warkop DKI;C:\Users\Benito\Downloads\Movies App Dev\warkop.jpg;07.00,10.00,13.00,16.00,19.00
